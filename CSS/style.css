@@ -1,0 +1,42 @@
+h1 {
+    font-family:"poppings"
+}
+
+p{
+    text-align: justify;
+}
+ .quadro{
+        height: 200px;
+        width: 200px;
+        margin-right: 50%;
+        margin-top: 20%;
+        background-color: blue;
+        background-size: cover;
+        border-style: solid;
+        border-color: black;
+        border-width: 5px;
+        background-image: url(../Imagem/Imagem.jpg);
+}
+
+ body{
+        font-family: 'Poppins';
+        background-color:rgb(120,177,63)
+        
+ }
+
+.container{
+    width: 50%;
+    margin: auto 
+}
+
+.bordas{
+    border: black;
+    border-style:groove;
+    border-width: 20px;
+}
+
+.fim{
+    width: 50%;
+    margin-bottom: 20%;
+}
+
